@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
+  <title>QMJ</title>
+  <link rel="alternate" href="https://discord.gg/PdRjwtNRVs" />
+  <tagline>the quatroph musical journey will be posted here, up to six times a week</tagline>
+  <modified>2024-01-04T14:09:26Z</modified>
+  <dc:creator>Quatroph</dc:creator>
+  <dc:date>2024-01-04T14:09:26Z</dc:date>
+  <dc:language>en-us</dc:language>
+  <entry>
+    <title>Title</title>
+    <link rel="alternate" href="https://canary.discord.com/channels/972069061506785330/972069061951361056/1192469847448227990" />
+    <author>
+      <name />
+    </author>
+    <summary type="text/html" mode="escaped">Today's quatroph musical journey concerns American artists Circles around the Sun. A common theme on the QMJ is the earworm - an intense, incessant song that will not leave your musical mind, another is a foot-tapper, a tune that you just cannot help grooving to, no matter the time or place or circumstance. Today's long-form jam (the song is 12 minutes long) features sadly-missed guitarist Neal Casal, and allows the band to stretch out, get a bit loopy, indulge in polyrhythm, expressive synth lines and psych guitar, locked tight and loose at the same time. It's fun stuff to listen to. Bring your shades. Circles around the Sun -  Gilbert's Groove (with Neal Casal). https://youtu.be/TIXk2Tbptpw</summary>
+  </entry>
+</feed>
