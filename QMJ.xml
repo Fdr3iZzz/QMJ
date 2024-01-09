@@ -3,9 +3,9 @@
   <title>QMJ</title>
   <link rel="alternate" href="https://discord.gg/PdRjwtNRVs" />
   <tagline>the quatroph musical journey will be posted here, up to six times a week</tagline>
-  <modified>2024-01-04T14:09:26Z</modified>
+  <modified>2024-01-05T02:45:47Z</modified>
   <dc:creator>Quatroph</dc:creator>
-  <dc:date>2024-01-04T14:09:26Z</dc:date>
+  <dc:date>2024-01-05T02:45:47Z</dc:date>
   <dc:language>en-us</dc:language>
   <entry>
     <title>Title</title>
@@ -13,6 +13,17 @@
     <author>
       <name />
     </author>
+    <id>https://canary.discord.com/channels/972069061506785330/972069061951361056/1192469847448227990</id>
     <summary type="text/html" mode="escaped">Today's quatroph musical journey concerns American artists Circles around the Sun. A common theme on the QMJ is the earworm - an intense, incessant song that will not leave your musical mind, another is a foot-tapper, a tune that you just cannot help grooving to, no matter the time or place or circumstance. Today's long-form jam (the song is 12 minutes long) features sadly-missed guitarist Neal Casal, and allows the band to stretch out, get a bit loopy, indulge in polyrhythm, expressive synth lines and psych guitar, locked tight and loose at the same time. It's fun stuff to listen to. Bring your shades. Circles around the Sun -  Gilbert's Groove (with Neal Casal). https://youtu.be/TIXk2Tbptpw</summary>
+    <dc:creator />
+  </entry>
+  <entry>
+    <title>Test123</title>
+    <link rel="alternate" href="link123" />
+    <link rel="enclosure" type="image/jpeg" href="https://i.scdn.co/image/ab67616d0000b273b808f709e7d5ed8e79cec246" />
+    <author>
+      <name />
+    </author>
+    <summary type="text/html" mode="escaped">Today's quatroph musical journey concerns artist Clairo. The warm and fuzzy feeling of emerging from a warm bed on a bright and cold winter's morning, a dressing gown draped across your shoulders. The intense, aromatic embrace of a hot cup of your favourite morning beverage and the sounds the world waking up around you are the hallmarks of Clairo's sound- grown from the tiny embryo of a Bandcamp bedroom setup onto the world stage (via TikTok and Instagram) a truly modern female artist for the modern age. Clairo - Softly. &#x1f3b6; https://www.youtube.com/watch?v=SQdgdWayPhQ My thanks to @demi for the tip.</summary>
   </entry>
 </feed>
